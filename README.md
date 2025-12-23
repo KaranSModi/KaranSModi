@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kmtechnolabs.com)**
-
 - 📫 How to reach me **karansameermodi@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
@@ -50,5 +48,3 @@
 <a href = "https://www.linkedin.com/in/karan-modi-57a46b20b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-<a href="https://github.com/KaranSModi?tab=followers"><img src="https://img.shields.io/github/followers/KaranSModi?label=Followers&style=social" alt="GitHub Badge"></a>
